@@ -1,6 +1,6 @@
 # 🌟 Full Stack Developer | .NET Expert
 
-With over 7 years of experience, I specialize in building robust and scalable web applications, ERP systems, and websites. My expertise spans across ASP.NET Core, C#, Microservices, MVC, Blazor, Web APIs, and both SQL Server and MySQL databases.
+With over 7 years of experience, I specialize in building robust and scalable web applications, ERP systems, and websites. My expertise spans across **ASP.NET Core, C#, Microservices, MVC, Blazor, Web APIs**, and both **SQL Server and MySQL databases**.
 </br>
 </br>
 <h2>🚀 Languages and Tools</h2>
@@ -62,12 +62,12 @@ With over 7 years of experience, I specialize in building robust and scalable we
 
 # 🚀 Professional Experience
 
-I have successfully collaborated with clients across various industries, including **healthcare**, **finance**, and **e-commerce**, delivering tailored solutions to meet their unique requirements. My focus has always been on providing high-quality, reliable software while adhering to best practices.
+I have successfully collaborated with clients across various industries, including **healthcare**, **finance**, and **e-commerce**, delivering tailored solutions to their unique requirements. I have always focused on providing high-quality, reliable software while adhering to best practices.
 
 # 🤝 My Approach
 
-I believe in **open communication** and **collaboration** to ensure a clear understanding of project goals. I am committed to delivering projects on time, within budget, and ensuring the highest code quality.
+I believe in **open communication** and **collaboration** to ensure a clear understanding of project goals. I am committed to delivering on time and providing the highest code quality.
 
 # 📫 Let's Connect!
 
-If you're looking for a reliable and experienced .NET developer, I’d love to discuss your project. Let's collaborate to turn your ideas into reality and achieve successful results!
+If you're looking for a reliable and experienced .NET Core developer, I’d love to discuss your project. Let's collaborate to turn your ideas into reality and achieve successful results!
