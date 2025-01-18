@@ -34,7 +34,7 @@ With over 7 years of experience, I specialize in building robust and scalable we
 <p><a target="_blank" href="https://www.linkedin.com/in/nasir-khalil-9704aa108/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 
-## Technologies & Skills
+# 🛠️ Technologies & Skills
 
 - **Backend Development:**
   - ✅ ASP.NET Core, MVC, C#
@@ -56,14 +56,14 @@ With over 7 years of experience, I specialize in building robust and scalable we
 - **Version Control & Collaboration:**
   - ✅ Source Control (TFS), GIT
 
-## Professional Experience
+# 🚀 Professional Experience
 
 I have successfully collaborated with clients across various industries, including **healthcare**, **finance**, and **e-commerce**, delivering tailored solutions to meet their unique requirements. My focus has always been on providing high-quality, reliable software while adhering to best practices.
 
-## My Approach
+# 🤝 My Approach
 
 I believe in **open communication** and **collaboration** to ensure a clear understanding of project goals. I am committed to delivering projects on time, within budget, and ensuring the highest code quality.
 
-##📫 Let's Connect!
+# 📫 Let's Connect!
 
 If you're looking for a reliable and experienced .NET developer, I’d love to discuss your project. Let's collaborate to turn your ideas into reality and achieve successful results!
