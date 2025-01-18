@@ -49,8 +49,9 @@ With over 7 years of experience, I specialize in building robust and scalable we
   - ✅ SQL Server & MySQL Databases
 
 - **Frontend Development:**
-  - ✅ Blazor, React, Razor Pages
-  - ✅ HTML5, CSS3, Bootstrap5
+  - ✅ Angular, Blazor, React
+  - ✅ Bootstrap5, Razor Pages
+  - ✅ HTML5, CSS3
   - ✅ AJAX, jQuery, JavaScript
 
 - **Version Control & Collaboration:**
