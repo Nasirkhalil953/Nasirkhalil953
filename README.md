@@ -64,6 +64,6 @@ I have successfully collaborated with clients across various industries, includi
 
 I believe in **open communication** and **collaboration** to ensure a clear understanding of project goals. I am committed to delivering projects on time, within budget, and ensuring the highest code quality.
 
-## Let's Connect!
+##📫 Let's Connect!
 
 If you're looking for a reliable and experienced .NET developer, I’d love to discuss your project. Let's collaborate to turn your ideas into reality and achieve successful results!
