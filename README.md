@@ -34,7 +34,7 @@ With over 7 years of experience, I specialize in building robust and scalable we
 
 </br>
 <h2>⚡️ Where to find me</h2>
-<a style="text-decoration: none !important;" href="https://www.linkedin.com/in/nasir-khalil-9704aa108/" target="_blank">
+<a target="_blank" style="display: inline-block;" href="https://www.linkedin.com/in/nasir-khalil-9704aa108/" >
   <img align="center" alt="Nasir Khalil | LinkedIn" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
 </a>
 <a style="text-decoration: none !important;" href="https://join.skype.com/invite/ucp6ciKW9dR8" target="_blank">
