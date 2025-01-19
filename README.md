@@ -34,8 +34,15 @@ With over 7 years of experience, I specialize in building robust and scalable we
 
 </br>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/nasir-khalil-9704aa108/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-
+<a style="text-decoration: none !important;" href="https://www.linkedin.com/in/nasir-khalil-9704aa108/" target="_blank">
+  <img align="center" alt="Nasir Khalil | LinkedIn" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
+</a>
+<a style="text-decoration: none !important;" href="https://join.skype.com/invite/ucp6ciKW9dR8" target="_blank">
+  <img align="center" alt="Nasir Khalil | Skype" width="30" src="https://img.icons8.com/color/48/000000/skype.png">
+</a>
+<a style="text-decoration: none !important;" href="mailto:nasirkhalil953@gmail.com" target="_blank">
+  <img align="center" alt="Nasir Khalil | Gmail" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/800px-Gmail_Icon.png">
+</a>
 
 # 🛠️ Technologies & Skills
 
