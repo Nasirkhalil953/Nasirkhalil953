@@ -1,6 +1,6 @@
 # 🌟 Full Stack Developer | .NET Expert
 
-With over 8 years of experience, I specialize in building robust and scalable web applications, ERP systems, and websites. My expertise spans across **ASP.NET Core, C#, Microservices, MVC, Blazor, Web APIs**, and both **SQL Server and MySQL databases**.
+With over 10 years of experience, I specialize in building robust and scalable web applications, ERP systems, and websites. My expertise spans across **ASP.NET Core, C#, Microservices, MVC, Blazor, Web APIs**, and both **SQL Server and MySQL databases**.
 </br>
 </br>
 <h2>🚀 Languages and Tools</h2>
