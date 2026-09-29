@@ -41,7 +41,7 @@ With over 10 years of experience, I specialize in building robust and scalable w
   <img align="center" alt="Nasir Khalil | Skype" width="30" src="https://img.icons8.com/color/48/000000/skype.png">
 </a>
 <a style="text-decoration: none !important;" href="mailto:nasirkhalil953@gmail.com" target="_blank">
-  <img align="center" alt="Nasir Khalil | Gmail" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/800px-Gmail_Icon.png">
+  <img align="center" alt="Nasir Khalil | Gmail" width="30" src="https://img.icons8.com/color/48/000000/gmail-new.png">
 </a>
 
 # 🛠️ Technologies & Skills
