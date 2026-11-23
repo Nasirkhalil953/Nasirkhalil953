@@ -1,80 +1,52 @@
-# 🌟 Full Stack Developer | .NET Expert
+<h1>Hi, I'm Nasir Khalil</h1>
 
-With over 10 years of experience, I specialize in building robust and scalable web applications, ERP systems, and websites. My expertise spans **ASP.NET Core, C#, Microservices, MVC, Blazor, Web APIs**, and both **SQL Server and MySQL databases**.
-</br>
-</br>
-<h2>🚀 Languages and Tools</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.chartjs.org/media/logo-title.svg" style="display: inline-block;"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://angular.io/assets/images/logos/angular/angular.svg" style="display: inline-block;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a></p>
+**Senior .NET Architect and AI Engineer.** I design and build AI powered SaaS, CRM and ERP platforms that are secure and built to scale.
 
-</br>
-<h2>⚡️ Where to find me</h2>
-<a target="_blank" style="display: inline-block;" href="https://www.linkedin.com/in/nasir-khalil-9704aa108/" >
-  <img align="center" alt="Nasir Khalil | LinkedIn" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
-</a>
-<a style="text-decoration: none !important;" href="https://join.skype.com/invite/ucp6ciKW9dR8" target="_blank">
-  <img align="center" alt="Nasir Khalil | Skype" width="30" src="https://img.icons8.com/color/48/000000/skype.png">
-</a>
-<a style="text-decoration: none !important;" href="mailto:nasirkhalil953@gmail.com" target="_blank">
-  <img align="center" alt="Nasir Khalil | Gmail" width="30" src="https://img.icons8.com/color/48/000000/gmail-new.png">
-</a>
+10+ years of production software · Top Rated Plus on Upwork (100% Job Success) · Fiverr Pro · Based in Lahore, Pakistan (UTC+5), working with clients in the US, UK, the Netherlands and the UAE.
 
-# 🛠️ Technologies & Skills
+[![Portfolio](https://img.shields.io/badge/Portfolio-nasirkhalil.com-0f766e?style=for-the-badge)](https://nasirkhalil.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasir-khalil-9704aa108/)
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01583585d5f005dd28)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Pro-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/nasirkhalil)
 
-- **Backend Development:**
-  - ✅ ASP.NET Core, MVC, C#
-  - ✅ Entity Framework, Asp.Net Zero
-  - ✅ Microservices Architecture
-  - ✅ Clean Architecture, Fluent Validation
-  - ✅ Repository Pattern, Dependency Injection
-  - ✅ Web APIs, Rest Sharp, Swagger
-  - ✅ Calendar APIs (Google Calendar, Outlook Calendar)
-  - ✅ Sand Grid, SMPP for Mail and SMS Integration
-  - ✅ LINQ, Advanced LINQ with Expressions & Delegates
-  - ✅ SQL Server & MySQL Databases
+## What I build
 
-- **Frontend Development:**
-  - ✅ Angular, Blazor, React
-  - ✅ Bootstrap5, Razor Pages
-  - ✅ HTML5, CSS3
-  - ✅ AJAX, jQuery, JavaScript
+- **AI on real business data:** RAG and vector search, AI agents and copilots, document and workflow automation, LLM integration with OpenAI, Azure OpenAI, Claude and Gemini.
+- **SaaS, CRM and ERP platforms:** multi tenant architecture, roles and permissions, billing, dashboards and reporting.
+- **Real time systems:** SignalR and WebRTC for chat, video calls, live streaming and telemedicine.
+- **.NET architecture and rescue:** Clean Architecture, CQRS, DDD, microservices, and taking over legacy .NET code without breaking production.
+- **Secure by design:** Entra ID, OAuth 2.0, JWT, OWASP practices, audit logs and safe AI access to company data.
 
-- **Version Control & Collaboration:**
-  - ✅ Source Control (TFS), GIT
+## Products I built
 
-# 🚀 Professional Experience
+| Product | What it is |
+|---|---|
+| **MediLink** | White label, multi tenant telemedicine SaaS with Super Admin, clinic, doctor and patient portals, WebRTC video visits and Stripe Connect. .NET 10 and React 19. [Live demo](https://tele-dev.skyvalleypro.com) |
+| **SkyMeet** | Self hosted team communication platform with meetings, scheduling, calendar and chat, so a company's calls and data stay on its own servers. |
+| **ChainForge** | Crypto trading and research desktop platform with an order book terminal, charts, risk analytics and a paper trading engine. |
 
-I have successfully collaborated with clients across various industries, including **healthcare**, **finance**, and **e-commerce**, delivering tailored solutions to their unique requirements. I have always focused on providing high-quality, reliable software while adhering to best practices.
+Case studies with screenshots: **[nasirkhalil.com](https://nasirkhalil.com)**
 
-# 🤝 My Approach
+## Tech stack
 
-I believe in **open communication** and **collaboration** to ensure a clear understanding of project goals. I am committed to delivering on time and providing the highest code quality.
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,react,nextjs,angular,flutter,postgres,mysql,redis,mongodb,azure,aws,docker,kubernetes,rabbitmq,git&perline=9" alt="Tech stack icons" />
+</p>
 
-# 📫 Let's Connect!
+- **Backend:** C#, .NET 10, ASP.NET Core, Web API, gRPC, EF Core, Dapper, Hangfire, Python, FastAPI, Node.js
+- **AI:** OpenAI, Azure OpenAI, Claude, Gemini, RAG, vector search, AI agents
+- **Frontend and mobile:** React, Next.js, Angular, Blazor, TypeScript, Flutter, React Native
+- **Real time:** SignalR, WebRTC, Twilio
+- **Data:** PostgreSQL, SQL Server, MySQL, MongoDB, Redis, Elasticsearch, SSIS
+- **Cloud and DevOps:** Azure, AWS, Docker, Kubernetes, CI/CD, OpenTelemetry, RabbitMQ, MassTransit, Kafka
+- **Payments and integrations:** Stripe, Stripe Connect, Twilio, SendGrid, Google and Outlook calendars, Sage 100
 
-If you're looking for a reliable and experienced .NET Core developer, I’d love to discuss your project. Let's collaborate to turn your ideas into reality and achieve successful results!
+## Recent roles
+
+- **Software Architect**, ConData: data and integration platform for a US client
+- **Technical Lead**, Genesis Biotechnology Group: CRM and commerce platforms for the US market
+- **Senior Software Engineer**, Anteeo Solutions: Solos Holidays trip booking platform (UK)
+
+Most of my client work lives in private repositories. I'm happy to walk you through architecture and code on a call.
+
+**[Book a free 30 minute call](https://nasirkhalil.com/#contact)**
