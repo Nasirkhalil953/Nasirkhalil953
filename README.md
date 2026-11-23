@@ -17,7 +17,7 @@
 
 | **10+ years** | **AI first** | **Secure by design** | **Global clients** |
 |:---:|:---:|:---:|:---:|
-| Production .NET systems | RAG, agents, copilots | OAuth, Entra ID, audit logs | US · UK · NL · UAE |
+| Production .NET systems | RAG, agents, copilots | OAuth, Entra ID, audit logs | Remote, any time zone |
 
 </div>
 
@@ -38,6 +38,16 @@
 | **MediLink** | White label, multi tenant telemedicine SaaS with clinic, doctor and patient portals | .NET 10 · React 19 · WebRTC video · Stripe Connect |
 | **SkyMeet** | Self hosted meetings, calendar and team chat, so company data stays on its own servers | Meetings · Scheduling · Chat |
 | **ChainForge** | Crypto trading and research desktop platform | Order book terminal · Risk analytics · Paper trading |
+
+## How I work
+
+| Step | What happens |
+|---|---|
+| **1. Discovery** | I map your goals, users and data, then agree on scope and milestones |
+| **2. Architecture** | A clear technical plan before code: data model, security, integrations and scale |
+| **3. Build in sprints** | Working demos every week, so you see progress and steer early |
+| **4. Quality and security** | Automated tests, code reviews, OWASP checks and audit logging |
+| **5. Launch and handover** | CI/CD, monitoring, documentation and full code ownership for you |
 
 ## Tech stack
 
