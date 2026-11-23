@@ -2,9 +2,9 @@
 
 **Senior .NET Architect and AI Engineer.** I design and build AI powered SaaS, CRM and ERP platforms that are secure and built to scale.
 
-10+ years of production software · Top Rated Plus on Upwork (100% Job Success) · Fiverr Pro · Working with clients in the US, UK, the Netherlands and the UAE.
+10+ years of production software · Working with clients in the US, UK, the Netherlands and the UAE.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Case%20studies-0f766e?style=for-the-badge)](https://nasirkhalil.com/work)
+[![Website](https://img.shields.io/badge/Website-nasirkhalil.com-0f766e?style=for-the-badge)](https://nasirkhalil.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Case%20studies-0f766e?style=for-the-badge)](https://nasirkhalil.com/work)
 
 ## What I build
 
