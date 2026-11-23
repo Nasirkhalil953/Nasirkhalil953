@@ -2,12 +2,9 @@
 
 **Senior .NET Architect and AI Engineer.** I design and build AI powered SaaS, CRM and ERP platforms that are secure and built to scale.
 
-10+ years of production software · Top Rated Plus on Upwork (100% Job Success) · Fiverr Pro · Based in Lahore, Pakistan (UTC+5), working with clients in the US, UK, the Netherlands and the UAE.
+10+ years of production software · Top Rated Plus on Upwork (100% Job Success) · Fiverr Pro · Working with clients in the US, UK, the Netherlands and the UAE.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nasirkhalil.com-0f766e?style=for-the-badge)](https://nasirkhalil.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasir-khalil-9704aa108/)
-[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01583585d5f005dd28)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Pro-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/nasirkhalil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Case%20studies-0f766e?style=for-the-badge)](https://nasirkhalil.com/work)
 
 ## What I build
 
@@ -25,7 +22,7 @@
 | **SkyMeet** | Self hosted team communication platform with meetings, scheduling, calendar and chat, so a company's calls and data stay on its own servers. |
 | **ChainForge** | Crypto trading and research desktop platform with an order book terminal, charts, risk analytics and a paper trading engine. |
 
-Case studies with screenshots: **[nasirkhalil.com](https://nasirkhalil.com)**
+Case studies with screenshots: **[nasirkhalil.com/work](https://nasirkhalil.com/work)**
 
 ## Tech stack
 
@@ -47,6 +44,4 @@ Case studies with screenshots: **[nasirkhalil.com](https://nasirkhalil.com)**
 - **Technical Lead**, Genesis Biotechnology Group: CRM and commerce platforms for the US market
 - **Senior Software Engineer**, Anteeo Solutions: Solos Holidays trip booking platform (UK)
 
-Most of my client work lives in private repositories. I'm happy to walk you through architecture and code on a call.
-
-**[Book a free 30 minute call](https://nasirkhalil.com/#contact)**
+Most of my client work lives in private repositories. I'm happy to walk through architecture and code during our discussion.
