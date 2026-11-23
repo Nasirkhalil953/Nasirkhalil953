@@ -1,47 +1,70 @@
-<h1>Hi, I'm Nasir Khalil</h1>
+<div align="center">
 
-**Senior .NET Architect and AI Engineer.** I design and build AI powered SaaS, CRM and ERP platforms that are secure and built to scale.
+# Nasir Khalil
 
-10+ years of production software · Working with clients in the US, UK, the Netherlands and the UAE.
+### Senior .NET Architect · AI Engineer
 
-[![Website](https://img.shields.io/badge/Website-nasirkhalil.com-0f766e?style=for-the-badge)](https://nasirkhalil.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Case%20studies-0f766e?style=for-the-badge)](https://nasirkhalil.com/work)
+**I design and build AI powered SaaS, CRM and ERP platforms that are secure, fast and built to scale.**
 
-## What I build
+[![Website](https://img.shields.io/badge/Website-nasirkhalil.com-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nasirkhalil.com)
+[![Case studies](https://img.shields.io/badge/Case%20studies-View%20work-1e293b?style=for-the-badge&logo=readdotcv&logoColor=white)](https://nasirkhalil.com/work)
 
-- **AI on real business data:** RAG and vector search, AI agents and copilots, document and workflow automation, LLM integration with OpenAI, Azure OpenAI, Claude and Gemini.
-- **SaaS, CRM and ERP platforms:** multi tenant architecture, roles and permissions, billing, dashboards and reporting.
-- **Real time systems:** SignalR and WebRTC for chat, video calls, live streaming and telemedicine.
-- **.NET architecture and rescue:** Clean Architecture, CQRS, DDD, microservices, and taking over legacy .NET code without breaking production.
-- **Secure by design:** Entra ID, OAuth 2.0, JWT, OWASP practices, audit logs and safe AI access to company data.
+</div>
 
-## Products I built
+---
 
-| Product | What it is |
+<div align="center">
+
+| **10+ years** | **AI first** | **Secure by design** | **Global clients** |
+|:---:|:---:|:---:|:---:|
+| Production .NET systems | RAG, agents, copilots | OAuth, Entra ID, audit logs | US · UK · NL · UAE |
+
+</div>
+
+## What I deliver
+
+| Area | What you get |
 |---|---|
-| **MediLink** | White label, multi tenant telemedicine SaaS with Super Admin, clinic, doctor and patient portals, WebRTC video visits and Stripe Connect. .NET 10 and React 19. [Live demo](https://tele-dev.skyvalleypro.com) |
-| **SkyMeet** | Self hosted team communication platform with meetings, scheduling, calendar and chat, so a company's calls and data stay on its own servers. |
-| **ChainForge** | Crypto trading and research desktop platform with an order book terminal, charts, risk analytics and a paper trading engine. |
+| **AI CRM and AI ERP** | Copilots and AI agents on your own business data, RAG search, workflow and document automation |
+| **SaaS platforms** | Multi tenant architecture, roles and permissions, billing, dashboards and reporting |
+| **Real time systems** | SignalR and WebRTC for chat, video calls, live streaming and telemedicine |
+| **Architecture and rescue** | Clean Architecture, CQRS, DDD, microservices, and safe takeover of legacy .NET code |
+| **Security** | Entra ID, OAuth 2.0, JWT, OWASP practices, audit trails and safe AI access to company data |
 
-Case studies with screenshots: **[nasirkhalil.com/work](https://nasirkhalil.com/work)**
+## Products I have built
+
+| Product | What it does | Highlights |
+|---|---|---|
+| **MediLink** | White label, multi tenant telemedicine SaaS with clinic, doctor and patient portals | .NET 10 · React 19 · WebRTC video · Stripe Connect |
+| **SkyMeet** | Self hosted meetings, calendar and team chat, so company data stays on its own servers | Meetings · Scheduling · Chat |
+| **ChainForge** | Crypto trading and research desktop platform | Order book terminal · Risk analytics · Paper trading |
 
 ## Tech stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,react,nextjs,angular,flutter,postgres,mysql,redis,mongodb,azure,aws,docker,kubernetes,rabbitmq,git&perline=9" alt="Tech stack icons" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,aws,docker,kubernetes,postgres,mysql,mongodb,redis,rabbitmq,react,nextjs,angular,ts,flutter,python,nodejs&perline=9" alt="Tech stack" />
 </p>
 
-- **Backend:** C#, .NET 10, ASP.NET Core, Web API, gRPC, EF Core, Dapper, Hangfire, Python, FastAPI, Node.js
-- **AI:** OpenAI, Azure OpenAI, Claude, Gemini, RAG, vector search, AI agents
-- **Frontend and mobile:** React, Next.js, Angular, Blazor, TypeScript, Flutter, React Native
-- **Real time:** SignalR, WebRTC, Twilio
-- **Data:** PostgreSQL, SQL Server, MySQL, MongoDB, Redis, Elasticsearch, SSIS
-- **Cloud and DevOps:** Azure, AWS, Docker, Kubernetes, CI/CD, OpenTelemetry, RabbitMQ, MassTransit, Kafka
-- **Payments and integrations:** Stripe, Stripe Connect, Twilio, SendGrid, Google and Outlook calendars, Sage 100
+| | |
+|---|---|
+| **Backend** | C# · .NET 10 · ASP.NET Core · Web API · gRPC · EF Core · Dapper · Hangfire · Python · FastAPI · Node.js |
+| **AI** | OpenAI · Azure OpenAI · Claude · Gemini · RAG · Vector search · AI agents |
+| **Frontend and mobile** | React · Next.js · Angular · Blazor · TypeScript · Flutter · React Native |
+| **Real time** | SignalR · WebRTC · Twilio |
+| **Data** | PostgreSQL · SQL Server · MySQL · MongoDB · Redis · Elasticsearch |
+| **Cloud and DevOps** | Azure · AWS · Docker · Kubernetes · CI/CD · OpenTelemetry · RabbitMQ · MassTransit · Kafka |
+| **Integrations** | Stripe · Stripe Connect · SendGrid · Google and Outlook calendars · Sage 100 |
 
-## Recent roles
+## Experience
 
-- **Software Architect**, ConData: data and integration platform for a US client
-- **Technical Lead**, Genesis Biotechnology Group: CRM and commerce platforms for the US market
-- **Senior Software Engineer**, Anteeo Solutions: Solos Holidays trip booking platform (UK)
+| Role | Company | Focus |
+|---|---|---|
+| **Software Architect** | ConData | Data and integration platform for a US client |
+| **Technical Lead** | Genesis Biotechnology Group | CRM and commerce platforms for the US market |
+| **Senior Software Engineer** | Anteeo Solutions | Trip booking platform for a UK travel brand |
 
-Most of my client work lives in private repositories. I'm happy to walk through architecture and code during our discussion.
+---
+
+<div align="center">
+<sub>Most of my client work lives in private repositories. I am happy to walk through architecture and code during our discussion.</sub>
+</div>
